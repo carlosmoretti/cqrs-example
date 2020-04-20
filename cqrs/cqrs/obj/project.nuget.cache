@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "sg9JRGGJWV8q+t7qygyxV2RernGBplDf+03hkA5auKkdAoIPSrJ5hRM8nGBO+hBJivlU7jvhF/an4HyKH6BcXQ==",
+  "dgSpecHash": "mmPFnzwE9PoLp1vlGU7hk8d18KZoZj5RsQm7X5t4RlsHd8vVAamiCTOztuVB0ircArMyZfKer2bYrxTKqBI0aA==",
   "success": true,
   "projectFilePath": "G:\\gitrepos\\cqrs-example\\cqrs\\cqrs\\cqrs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Moretti\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Moretti\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Moretti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Moretti\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Moretti\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.2\\swashbuckle.aspnetcore.swagger.5.3.2.nupkg.sha512",
+    "C:\\Users\\Moretti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.2\\swashbuckle.aspnetcore.swaggergen.5.3.2.nupkg.sha512",
+    "C:\\Users\\Moretti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.2\\swashbuckle.aspnetcore.swaggerui.5.3.2.nupkg.sha512"
+  ],
   "logs": []
 }
